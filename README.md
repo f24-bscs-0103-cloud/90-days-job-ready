@@ -29,4 +29,4 @@ This repository documents my 90-day journey to become a Python & Django Develope
 
 ## Contact
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/f24-bscs-0103-cloud
