@@ -15,3 +15,18 @@ This repository documents my 90-day journey to become a Python & Django Develope
 - [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
+
+## Technologies I Will Learn
+- Git
+- GitHub
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Django
+- REST API
+
+## Contact
+
+GitHub: https://github.com/YOUR_USERNAME
